@@ -11,3 +11,8 @@ add fundTransfer() method
 
 add addNewBeneficiary() method
 add getAccountDetails() method
+
+
+//not sure wether i want these features
+cutSomeFee()
+addSomeInterstMoneyToAccount()
