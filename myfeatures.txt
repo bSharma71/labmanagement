@@ -13,4 +13,10 @@ add addNewBeneficiary() method
 add getAccountDetails() method
 
 
+
+//not sure wether i want these features
+cutSomeFee()
+addSomeInterstMoneyToAccount()
+
+=======
 end of master
