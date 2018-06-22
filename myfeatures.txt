@@ -5,3 +5,6 @@ Hello,
 
 accept user data
 add deposit() method
+
+add withdraw mwthod()
+add fundTransfer method()
