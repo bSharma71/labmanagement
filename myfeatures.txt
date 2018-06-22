@@ -16,3 +16,5 @@ add getAccountDetails() method
 //not sure wether i want these features
 cutSomeFee()
 addSomeInterstMoneyToAccount()
+
+ending the new branch
